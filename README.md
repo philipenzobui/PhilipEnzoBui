@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Philip.
-- 👀 I’m interested in computer science, mathematics. More specifically, the fields of probability, game theory, NLP, and deep learning.
+- 👀 I’m interested in machine learning, computer science, and mathematics. More specifically, the fields of probability, game theory, NLP, and deep learning.
 - 🌱 I graduated in 2022 with a bachelor of Actuarial Science.
 - 📫 You can reach me by email at philipbuicode@gmail.com or on LinkedIn at https://www.linkedin.com/in/philipenzobui/.
