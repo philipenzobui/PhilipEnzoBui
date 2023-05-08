@@ -1,4 +1,9 @@
-- 👋 Hi, I’m Philip.
-- 👀 I’m interested in machine learning, computer science, and mathematics. More specifically, the fields of probability, game theory, NLP, and deep learning.
-- 🌱 I graduated in 2022 with a bachelor of Actuarial Science.
-- 📫 You can reach me by email at philipbuicode@gmail.com or on LinkedIn at https://www.linkedin.com/in/philipenzobui/.
+### About me
+
+Current Master's student of Mathematics and Statistics student at the University of Montreal in Canada. I previously graduated with a BSc in Actuarial Mathematics and obtained my Associateship of the Society of Actuaries (SOA).
+
+My research applies ideas from probability, bayesian statistics, and statistical learning to solve problems in the intersection of mathematical finance, optimization and machine learning. I am passionate about developing theoretical and computational tools motivated by real life applications.
+
+“All models are wrong, some are useful.”
+
+— George E. P. Box
