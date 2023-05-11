@@ -6,6 +6,6 @@ My research applies ideas from probability, stochastic modelling, and statistica
 
 I have recently taken an interest in the art of solving abstract puzzles, and I believe they are good practice to solving challenging problems without well-defined rules. I mainly work on Jane Street's and IBM research monthly puzzles, but am open to any challenge! If you would like to collaborate, you can reach me by mail or LinkedIn.
 
-“All models are wrong, some are useful.”
+<em>“All models are wrong, some are useful.”<em>
 
 — George E. P. Box
